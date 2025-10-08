@@ -1,0 +1,7 @@
+id=coreopt
+name=CoreOpt Androod
+version=v1.0.0
+versionCode=100
+author=wtfxetra (droidvex)
+description=
+updateJson=https://raw.githubusercontent.com/wtfxetra/coreopt-android/main/update.json
